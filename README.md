@@ -1,6 +1,4 @@
 # Project-2
-
-## Team Wolves
 * Team Members
   * Geetha
   * Nivi Amanjee
